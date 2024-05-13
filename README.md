@@ -1,3 +1,3 @@
-# my_health_app
+# MyHealth Mobile Application
 
 A new Flutter project.
