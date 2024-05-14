@@ -1,4 +1,4 @@
-# 🏥 MyVaccine Web Application
+# 🏥 MyHealth App
 
 ##  **📝 Descripción**
 
